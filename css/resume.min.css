@@ -144,3 +144,14 @@ a:focus,
 a:hover {
   color: #d4eb25;
 }
+
+.download-btn {
+  background-color: #d4eb25;
+  color: #1c3150;
+  border: 1px solid #d4eb25;
+  border-radius: 0.25rem;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
